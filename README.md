@@ -5,7 +5,8 @@ Case sensitive.
 Task
 
 You have a test string S . Your task is to match the string hackerrank.(Case sensitive)
-JAVA CODE:import java.io.*;
+JAVA CODE:
+import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
